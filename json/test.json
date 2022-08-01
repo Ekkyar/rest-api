@@ -1,0 +1,24 @@
+[
+    {
+        "nama" : "Ekky Aulia Rahman",
+        "umur" : 22,
+        "nim" : "E31180509",
+        "lulus" : true,
+        "hobi" : ["Berenang", "Makan", "Tidur"],
+        "pembimbing" : {
+            "pembimbing1" : "Dody",
+            "pembimbing2" : "Rizki"
+        }
+    },   
+    {
+        "nama" : "Ekky",
+        "umur" : 22,
+        "nim" : "L200180101",
+        "lulus" : true,
+        "hobi" : ["Berenang", "Makan", "Tidur"],
+        "pembimbing" : {
+            "pembimbing1" : "Joko",
+            "pembimbing2" : "Rizki"
+        }
+    }
+]
